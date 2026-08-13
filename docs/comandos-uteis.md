@@ -8,6 +8,8 @@
 
 `npm install pacote@versao` - Instala um pacote na versão especificada. Caso nenhuma versão seja informada, será instalada a versão mais recente do pacote.
 
+`npm install pacote -D` - Instala um pacote como depedência de desenvolvimento.
+
 ## nvm
 
 `nvm install` - Instala a versão do Node.js especificada no arquivo `.nvmrc`.
