@@ -5,6 +5,8 @@
 3. [Fundação](fundacao.md)
 4. [A primeira parede](a-primeira-parede.md)
 5. [Página Inicial](pagina-inicial.md)
+6. [Hospedagem e Deploy](hospedagem-e-deploy.md)
+7. [Configurar EditorConfig](configurar-editorconfig.md)
 
 ---
 
