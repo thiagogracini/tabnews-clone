@@ -4,7 +4,7 @@ Para começar, a primeira coisa que vamos fazer é criar o nosso repositório, q
 
 Para isso, primeiro vamos criar uma conta no GitHub e, em seguida, criar o repositório com as seguintes configurações:
 
-![Criando repositorio](./assets/imagens/criando-repositorio.png)
+![Criando repositorio](./assets/images/criando-repositorio.png)
 
 ---
 
