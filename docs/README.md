@@ -8,6 +8,7 @@
 6. [Hospedagem e Deploy](hospedagem-e-deploy.md)
 7. [Configurar EditorConfig](configurar-editorconfig.md)
 8. [Configurar Prettier](configurar-prettier.md)
+9. [Instalar um Test Runner](instalar-test-runner.md)
 
 ---
 
