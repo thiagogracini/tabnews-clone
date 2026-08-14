@@ -9,6 +9,7 @@
 7. [Configurar EditorConfig](configurar-editorconfig.md)
 8. [Configurar Prettier](configurar-prettier.md)
 9. [Instalar um Test Runner](instalar-test-runner.md)
+10. [Versionamento de API e Endpoint "/status"](versionamento-de-api-e-endpoint-status.md)
 
 ---
 
