@@ -5,6 +5,7 @@ Crie na raíz do projeto o arquivo `.editorconfig` e adicione o seguinte código
 ```text
 root = true
 
+[*]
 indent_style = space
 indent_size = 2
 ```
