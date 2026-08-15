@@ -42,6 +42,20 @@
 
 `git diff` - Exibe as alterações realizadas nos arquivos que ainda não foram adicionadas à área de staging, mostrando as diferenças em relação à última versão registrada pelo Git.
 
+## Docker
+
+`docker ps` - Lista os containers que estão em execução.
+
+`docker ps -a` - Lista todos os containers, incluindo os que estão em execução e os que já foram encerrados.
+
+`docker compose up` - Lê o arquivo `compose.yaml` e cria e inicia os serviços definidos nele.
+
+`docker compose up --detach` - Cria e inicia os serviços definidos no arquivo `compose.yaml` em segundo plano.
+
+`docker compose up -d --force-recreate` - Recria os containers antes de iniciá-los, mesmo que suas configurações ou imagens não tenham sido alteradas, e os executa em segundo plano.
+
+`docker compose -f infra/compose.yaml up` - Cria e inicia os serviços utilizando o arquivo `compose.yaml` localizado no diretório `infra`.
+
 ## Terminal
 
 `clear` - Limpa o terminal
