@@ -42,6 +42,8 @@
 
 `git diff` - Exibe as alterações realizadas nos arquivos que ainda não foram adicionadas à área de staging, mostrando as diferenças em relação à última versão registrada pelo Git.
 
+`git mv` - Comando utilizado para mover um arquivo do repositório para outro diretório ou para renomeá-lo.
+
 ## Docker
 
 `docker ps` - Lista os containers que estão em execução.

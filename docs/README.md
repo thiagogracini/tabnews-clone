@@ -11,6 +11,8 @@
 9. [Instalar um Test Runner](instalar-test-runner.md)
 10. [Versionamento de API e Endpoint "/status"](versionamento-de-api-e-endpoint-status.md)
 11. [Subir Banco de Dados(Local)](banco-de-dados-local.md)
+12. [Criar módulo "database.js"](criar-modulo-database.md)
+13. [Arquivo `.env.development`](arquivo-dot-env-dot-development.md)
 
 ---
 
