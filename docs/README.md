@@ -13,6 +13,7 @@
 11. [Subir Banco de Dados(Local)](banco-de-dados-local.md)
 12. [Criar módulo "database.js"](criar-modulo-database.md)
 13. [Arquivo `.env.development`](arquivo-dot-env-dot-development.md)
+14. [Configurar o "baseUrl" para "Absolute Imports"](configurando-absolute-imports.md)
 
 ---
 
