@@ -18,6 +18,7 @@
 16. [Finalizar retorno endpoint `/status`](finalizar-retorno-endpoint-status.md)
 17. [Ajustes no arquivo `infra/database.js`](ajustes-no-arquivo-infra-database.md)
 18. [Banco de Produção no Neon](banco-producao-neon.md)
+19. [Banco de Produção Digital Ocean](banco-producao-digitalOcean.md)
 
 ---
 
