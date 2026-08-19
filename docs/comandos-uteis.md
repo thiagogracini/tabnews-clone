@@ -32,6 +32,8 @@
 
 `git commit -m "mensagem do commit"` - Cria um novo commit com as alterações que estão na área de staging e associa a ele a mensagem informada.
 
+`git commit -am "mensagem do commit"` - Adiciona automaticamente ao staging os arquivos já rastreados pelo Git que foram modificados ou removidos e, em seguida, realiza o commit. Arquivos novos ainda precisam ser adicionados com `git add`.
+
 `git commit --amend` - Permite alterar o último commit realizado, seja para modificar sua mensagem ou para incluir novas alterações que não foram adicionadas anteriormente.
 
 `git push` - Envia os commits do repositório local para o repositório remoto, que, no nosso caso, está hospedado no GitHub.

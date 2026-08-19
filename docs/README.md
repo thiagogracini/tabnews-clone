@@ -14,6 +14,7 @@
 12. [Criar módulo "database.js"](criar-modulo-database.md)
 13. [Arquivo `.env.development`](arquivo-dot-env-dot-development.md)
 14. [Configurar o "baseUrl" para "Absolute Imports"](configurando-absolute-imports.md)
+15. [Configurar scripts dos serviços](configurar-scripts-dos-servicos.md)
 
 ---
 
