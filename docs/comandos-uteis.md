@@ -46,6 +46,8 @@
 
 `git mv` - Comando utilizado para mover um arquivo do repositório para outro diretório ou para renomeá-lo.
 
+`git restore arquivo` - Descarta as alterações realizadas em um arquivo e restaura seu conteúdo para o estado do último commit.
+
 ## Docker
 
 `docker ps` - Lista os containers que estão em execução.
