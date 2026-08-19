@@ -16,6 +16,7 @@
 14. [Configurar o "baseUrl" para "Absolute Imports"](configurando-absolute-imports.md)
 15. [Configurar scripts dos serviços](configurar-scripts-dos-servicos.md)
 16. [Finalizar retorno endpoint `/status`](finalizar-retorno-endpoint-status.md)
+17. [Ajustes no arquivo `infra/database.js`](ajustes-no-arquivo-infra-database.md)
 
 ---
 
