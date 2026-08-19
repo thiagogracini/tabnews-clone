@@ -15,6 +15,7 @@
 13. [Arquivo `.env.development`](arquivo-dot-env-dot-development.md)
 14. [Configurar o "baseUrl" para "Absolute Imports"](configurando-absolute-imports.md)
 15. [Configurar scripts dos serviços](configurar-scripts-dos-servicos.md)
+16. [Finalizar retorno endpoint `/status`](finalizar-retorno-endpoint-status.md)
 
 ---
 
