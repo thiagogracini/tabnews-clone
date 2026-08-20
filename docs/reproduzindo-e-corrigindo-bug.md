@@ -1,3 +1,10 @@
+# Reproduzindo e corrigindo o Bug em Homologação
+
+O endpoint `/api/v1/migrations` possui um bug que ocorre quando uma requisição falha ou quando um usuário realiza uma requisição utilizando qualquer método HTTP diferente de `GET` ou `POST`. Nesses casos, a conexão com o banco de dados pode ser aberta, mas não é encerrada, permanecendo ativa.
+
+Dito isso, vamos refatorar o arquivo `api/v1/migrations/index.js`. Como boa parte do arquivo sofreu alterações, não compensa modificar manualmente cada linha. Portanto, substitua todo o conteúdo do arquivo pelo código abaixo:
+
+```js
 import migrationRunner from "node-pg-migrate";
 import { join } from "node:path";
 import database from "infra/database.js";
@@ -48,3 +55,16 @@ export default async function migrations(request, response) {
     await dbClient.end();
   }
 }
+```
+
+Agora faça o commit das alterações:
+
+```bash
+git add -A
+git commit -m 'fix `/migrations` endpoint bug'
+git push
+```
+
+---
+
+[← Voltar ao sumário](README.md)
