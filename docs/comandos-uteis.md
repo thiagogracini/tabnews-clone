@@ -84,6 +84,8 @@
 
 `docker compose -f infra/compose.yaml up` - Cria e inicia os serviços utilizando o arquivo `compose.yaml` localizado no diretório `infra`.
 
+`docker system prune -a` - Remove containers parados, redes não utilizadas, imagens não utilizadas por containers e cache de build. Por padrão, não remove volumes.
+
 ## Terminal
 
 `clear` - Limpa o terminal
