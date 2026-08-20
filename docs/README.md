@@ -23,6 +23,7 @@
 21. [Migrations endpoint](migrations-endpoint.md)
 22. [Reproduzindo e corrigindo o Bug em Homologação](reproduzindo-e-corrigindo-bug.md)
 23. [Estabilizar `npm run dev`](estabilizar-npm-run-dev.md)
+24. [Estabilizar `npm test`](estabilizar-npm-test.md)
 
 ---
 
