@@ -56,7 +56,13 @@
 
 `git branch nome-da-branch` - Cria uma nova branch.
 
+`git branch -d nome-da-branch` - Remove a branch informada.
+
+`git branch -D nome-da-branch` - Força a remoção da branch informada.
+
 `git checkout nome-da-branch` - Altera para a branch informada.
+
+`git checkout -b nome-da-branch` - Cria uma nova branch e já altera o ponteiro head para ela.
 
 `git switch nome-da-branch` - Altera para a branch informada.
 
