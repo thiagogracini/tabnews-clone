@@ -20,6 +20,7 @@
 18. [Banco de Produção no Neon](banco-producao-neon.md)
 19. [Banco de Produção Digital Ocean](banco-producao-digitalOcean.md)
 20. [Migrations por Linha de Comando](migrations-por-cli.md)
+21. [Migrations endpoint](migrations-endpoint.md)
 
 ---
 

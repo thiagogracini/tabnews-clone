@@ -10,6 +10,10 @@
 
 `npm install pacote -D` - Instala um pacote como depedência de desenvolvimento.
 
+`npm run test:watch -- migrations` - Executa, em modo watch, somente os testes cujo caminho corresponde ao padrão `migrations`.
+
+`npm run test:watch -- migrations.post` - Executa, em modo watch, somente os testes cujo caminho corresponde ao padrão `migrations.post`.
+
 ## nvm
 
 `nvm install` - Instala a versão do Node.js especificada no arquivo `.nvmrc`.
