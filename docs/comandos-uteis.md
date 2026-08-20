@@ -30,6 +30,8 @@
 
 `git log --stat` - Exibe o histórico de commits, incluindo um resumo dos arquivos alterados e a quantidade de linhas adicionadas e removidas em cada commit.
 
+`git reflog` - Exibe o histórico das alterações realizadas nas referências locais do repositório, como movimentações do `HEAD` e das branches, sendo útil para localizar e recuperar commits que não aparecem mais no histórico atual.
+
 `git status` - Exibe o estado atual do repositório, mostrando arquivos modificados, adicionados, removidos e quais alterações estão ou não na área de staging.
 
 `git add arquivo` - Adiciona as alterações de um arquivo à área de staging, deixando-as prontas para serem incluídas no próximo commit.
@@ -65,6 +67,8 @@
 `git checkout -b nome-da-branch` - Cria uma nova branch e já altera o ponteiro head para ela.
 
 `git switch nome-da-branch` - Altera para a branch informada.
+
+`git merge branch-a-ser-mesclada` - Mescla as alterações da branch informada na branch atual.
 
 ## Docker
 
