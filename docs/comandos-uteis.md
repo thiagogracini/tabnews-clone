@@ -52,6 +52,14 @@
 
 `git restore arquivo` - Descarta as alterações realizadas em um arquivo e restaura seu conteúdo para o estado do último commit.
 
+`git branch` - Exibe as branches existentes.
+
+`git branch nome-da-branch` - Cria uma nova branch.
+
+`git checkout nome-da-branch` - Altera para a branch informada.
+
+`git switch nome-da-branch` - Altera para a branch informada.
+
 ## Docker
 
 `docker ps` - Lista os containers que estão em execução.
